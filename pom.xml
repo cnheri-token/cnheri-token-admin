@@ -67,6 +67,11 @@
             <artifactId>spring-boot-admin-starter-server</artifactId>
         </dependency>
         <!-- Spring Boot Admin End -->
+        <dependency>
+            <!-- spring security -->
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-security</artifactId>
+        </dependency>
     </dependencies>
     <repositories>
         <repository>
